@@ -1,7 +1,7 @@
 $LOAD_PATH.unshift 'lib'
 
 Gem::Specification.new do |s|
-  s.name              = "ruby-core-source19"
+  s.name              = "ruby_core_source19"
   s.version           = 99.0
   s.date              = Time.now.strftime('%Y-%m-%d')
   s.summary           = "Do no use"
